@@ -1,4 +1,4 @@
-Data Analytics Project for Bank transactions Data Analytics Project for Bank Loan 
+Data Analytics Project for Bank loan performance Data Analytics Project for Bank Loan 
 • Improved banking efficiency and decision-making through data analysis, 
 leveraging SQL and Power BI to analyse large banking datasets and create interactive dashboards. 
 • Developed Power BI interactive dashboards and reports to track key banking KPI’s, 
